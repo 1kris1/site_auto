@@ -53,3 +53,20 @@
     color:white;
     font-size: 40px;
 }
+.info_sto{
+    position: absolute;
+    top:30%;
+    width:100%;
+
+}
+.info_sto p{
+    width: 500px;
+    margin:0 auto;
+    background: white;
+    color:blue;
+    box-shadow: 0 0 45px 30px white;
+    font-size:20px;
+    text-transform: uppercase;
+    font-weight:500;
+
+}
