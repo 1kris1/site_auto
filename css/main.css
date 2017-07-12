@@ -1,0 +1,55 @@
+/*td{*/
+    /*border: 1px solid black !important;*/
+    /*padding: 15px;*/
+/*}*/
+/*button, input{*/
+    /*width:50px;*/
+    /*height:50px;*/
+    /*background: white;*/
+    /*border: 1px solid black !important;*/
+    /*padding: 3px;*/
+    /*margin:0 !important;*/
+/*}*/
+/*button:hover, input:hover{*/
+    /*background: gainsboro;*/
+    /*cursor: pointer;*/
+    /*text-shadow: none;*/
+
+/*}*/
+/*.field{*/
+    /*display: table;*/
+    /*width: 150px;*/
+    /*!*display: table;*!*/
+    /*!*border-collapse: separate;*!*/
+    /*!*border-spacing: 2px;*!*/
+/*}*/
+/*button{*/
+    /*width:80px;*/
+    /*height:80px;*/
+    /*!*background: white;*!*/
+    /*border:1px solid white !important;*/
+/*}*/
+/*.col-md-1{*/
+    /*margin-right: -17.5px;*/
+/*}*/
+/*button:hover{*/
+    /*!*color:black !important;*!*/
+    /*background: darkgrey !important;*/
+/*}*/
+/*button:active{*/
+    /*color:black !important;*/
+/*}*/
+.logo_site h1{
+    color: white !important;
+    text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
+    0px -5px 35px rgba(255,255,255,0.3);
+    /*font-size: 40px;*/
+    font-weight: 500;
+}
+.logo_site p{
+    color:white;
+}
+.phone_number{
+    color:white;
+    font-size: 40px;
+}
